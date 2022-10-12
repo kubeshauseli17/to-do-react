@@ -5,8 +5,10 @@ import MyList from './MyList';
 import reportWebVitals from './reportWebVitals';
 
 const todoList = [
-  "check into retirement",
-  "go hottubbing"
+  "walk the plank",
+  "streak through the quad",
+  "keg stand with Blue",
+  "your my boy Blue"
 ]
 
 ReactDOM.render(
